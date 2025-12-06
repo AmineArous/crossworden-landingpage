@@ -100,10 +100,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-collections:
-  pages:
-    output: true
     
 collections:
   pages:
