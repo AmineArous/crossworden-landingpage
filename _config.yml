@@ -94,9 +94,11 @@ footer_text_color                         : "#94a3b8"
 ### Jekyll Configuration. No need to touch this. ###
 ####################################################
 
+# Set the Sass partials directory, as we're using @imports
 sass:
   style: :compressed
 
+# Exclude these files from your production _site
 exclude:
   - LICENSE
   - README.md
