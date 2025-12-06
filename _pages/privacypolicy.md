@@ -1,100 +1,33 @@
 ---
 layout: page
-title: Privacy Policy
-include_in_header: false
+title: What's New
+include_in_header: true
 ---
 
-**Last updated**  
-December 3, 2025
+# Changelog
 
-# Privacy Policy
+### `Initial Release`
+# **Version 1.0**
+**December 2025**
 
-At **Crossword Play**, your privacy is our top priority. We believe your personal data should remain yours alone.
+Welcome to **Crossword Play**! Dive into the exciting world of themed crossword puzzles — now fully in English.
 
-<br>
+#### Features
 
-## 1.0 Your Data Belongs to You
+- 🎬 **8 Captivating Themes** — Movies, Football, Music, Literature, Geography, Animals, Famous People, and General Knowledge  
+- 🎯 **3 Difficulty Levels** — Easy, Medium, and Hard for all players  
+- 💡 **Hint System** — Reveal letters or whole words when you're stuck  
+- ♾️ **Unlimited Grids** — Thousands of generated puzzles for endless fun  
+- 🇬🇧 **100% in English** — Fully English content with carefully crafted clues  
+- 📴 **Offline Mode** — Play anywhere, even without an internet connection  
+- 🎨 **Visual Themes** — Customize the look of your crossword grids  
+- 🏆 **Progress Tracking** — Track your achievements and improvements  
 
-**Crossword Play does not collect, store, or have access to any of your personal data.**
+#### Notes
 
-All your information—including game progress, scores, hints, and statistics—is stored exclusively on your device.
+This is the first version of **Crossword Play**.  
+We are continuously working to improve the app and add new content. Your feedback is always appreciated!
 
-<br>
+---
 
-## 2.0 What We Don't Do
-
-- ❌ We don't collect your personal information  
-- ❌ We don't track your usage or behavior  
-- ❌ We don't share your data with third parties  
-- ❌ We don't sell your data to advertisers  
-- ❌ We don't have access to your game data  
-
-<br>
-
-## 3.0 How Your Data is Stored
-
-### 3.1 Local Storage
-All your game progress, completed puzzles, and hint balance is stored locally on your device using Core Data.
-
-### 3.2 No Account Required
-Crossword Play does not require any account creation. You can enjoy the game without providing any personal information.
-
-<br>
-
-## 4.0 Advertising
-
-### 4.1 Google AdMob
-Crossword Play displays advertisements through Google AdMob to support the free version of the app.  
-Google may collect certain data as described in their privacy policy. You can learn more at:  
-https://policies.google.com/privacy
-
-### 4.2 Rewarded Ads
-You can watch optional rewarded ads to earn free hints. This is entirely voluntary.
-
-<br>
-
-## 5.0 Third-Party Services
-
-### 5.1 Google AdMob
-We use Google AdMob to display advertisements. Google AdMob may collect:
-- Device identifiers  
-- IP address  
-- General location (country/region)  
-
-This data is used by Google to serve relevant ads and is governed by Google's Privacy Policy.
-
-### 5.2 Apple Services
-Crossword Play uses Apple's built-in frameworks:
-- **Core Data** for local game storage (stored on device only)
-
-<br>
-
-## 6.0 In-App Purchases
-
-Crossword Play may offer optional in-app purchases for hints or to remove ads.  
-Payment processing is handled entirely by Apple — we never receive or store your payment information.
-
-<br>
-
-## 7.0 Offline Play
-
-Crossword Play can be played entirely offline.  
-No internet connection is required to enjoy the crossword puzzles.  
-Internet is only needed for ads and in-app purchase processing.
-
-<br>
-
-## 8.0 Children's Privacy
-
-Crossword Play does not knowingly collect any information from children under 13 years of age.  
-Since we don't collect personal data, the app is safe for all ages.  
-However, the app does contain advertisements.
-
-<br>
-
-## 9.0 Changes to This Policy
-
-We may update this Privacy Policy from time to time.  
-Any changes will be posted on this page with an updated "Last updated" date.
-
-<br>
+Contact us: **sixtyedge@gmail.com**
