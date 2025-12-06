@@ -3,6 +3,7 @@ page_title                                : "Crossword Play: The Ultimate Crossw
 
 # App Info
 ios_app_id                                : 6756207492
+ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :
 playstore_link                            :
