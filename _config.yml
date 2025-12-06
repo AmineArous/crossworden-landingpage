@@ -1,5 +1,5 @@
 #page title
-page_title                                : Crossword Play- The Ultimate Crossword Puzzle Game
+page_title                                : Crossword Play - The Ultimate Crossword Puzzle Game
 
 # App Info
 ios_app_id                                : 6756207492
@@ -11,7 +11,7 @@ presskit_download_link                    :
 app_icon                                  :
 app_name                                  :
 app_price                                 :
-app_description                           : Discover captivating themed crossword puzzles: movies, football, music, literature, and much more!
+app_description                           : Discover captivating themed crossword puzzles :: movies, football, music, literature, and much more!
 
 enable_smart_app_banner                   : true
 
